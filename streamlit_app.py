@@ -3,4 +3,4 @@ import streamlit
 streamlit.title("My Parents New Healthy Diner")
 
 streamlit.title("Breakfast Menu")
-streamlit.title("Omega 3 & Blueberry Oatmeal"0
+streamlit.title("Omega 3 & Blueberry Oatmeal")
